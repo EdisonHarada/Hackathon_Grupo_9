@@ -1,0 +1,14 @@
+application.type=widget
+application.code=wcm_hackathon
+application.title=wcm_hackathon
+application.description=wcm_hackathon
+application.category=SYSTEM
+application.renderer=freemarker
+developer.code=DESKTOP-LDVNNIQ
+developer.name=William Pezzolito
+developer.url=http://www.fluig.com
+application.uiwidget=true
+application.mobileapp=true
+view.file=view.ftl
+edit.file=edit.ftl
+

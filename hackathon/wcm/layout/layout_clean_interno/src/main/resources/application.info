@@ -1,0 +1,21 @@
+application.type=layout
+application.code=layout_clean_interno
+application.title=Layout Clean Interno
+application.description=Layout Clean Interno
+application.category=SYSTEM
+application.renderer=freemarker
+developer.code=DESKTOP-1FKPETD
+developer.name=harad
+developer.url=http://www.fluig.com
+layout.defaultSlot=SlotA
+layout.file=layout.ftl
+locale.file.base.name=layout_clean_interno
+slot.SlotGlobalAlert=alertpopover
+slot.SlotInstantSearch=suggestsearch
+slot.SlotLogin=sociallogin
+slot.SlotMenu=menu
+slot.SlotUsePolicy=usepolicy
+slot.SlotMessagingNotify=socialmessagingnotify
+slot.SlotChat=socialchat
+application.icon=icon.png
+

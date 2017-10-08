@@ -1,0 +1,21 @@
+application.type=layout
+application.code=layout_clean
+application.title=Layout Clean
+application.description=Layout Clean
+application.category=SYSTEM
+application.renderer=freemarker
+developer.code=DESKTOP-1FKPETD
+developer.name=harad
+developer.url=http://www.fluig.com
+layout.defaultSlot=SlotA
+layout.file=layout.ftl
+locale.file.base.name=layout_clean
+slot.SlotGlobalAlert=alertpopover
+slot.SlotInstantSearch=suggestsearch
+slot.SlotLogin=sociallogin
+slot.SlotMenu=menu
+slot.SlotUsePolicy=usepolicy
+slot.SlotMessagingNotify=socialmessagingnotify
+slot.SlotChat=socialchat
+application.icon=icon.png
+
